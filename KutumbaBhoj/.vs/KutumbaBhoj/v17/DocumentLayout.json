@@ -1,0 +1,635 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Asus\\source\\repos\\KutumbaBhoj\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{569A261E-C13F-4196-B97A-DFF8E5305B51}|..\\KutumbaBhoj.Infrastructure\\KutumbaBhoj.Infrastructure.csproj|c:\\users\\asus\\source\\repos\\kutumbabhoj.infrastructure\\repository\\restaurantrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{569A261E-C13F-4196-B97A-DFF8E5305B51}|..\\KutumbaBhoj.Infrastructure\\KutumbaBhoj.Infrastructure.csproj|c:\\users\\asus\\source\\repos\\kutumbabhoj.infrastructure\\repository\\dishrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4F2B14B-0574-4DE0-8A1C-277E140147DF}|..\\KutumbaBhoj.Domain\\KutumbaBhoj.Domain.csproj|c:\\users\\asus\\source\\repos\\kutumbabhoj.domain\\models\\userregisterrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4F2B14B-0574-4DE0-8A1C-277E140147DF}|..\\KutumbaBhoj.Domain\\KutumbaBhoj.Domain.csproj|c:\\users\\asus\\source\\repos\\kutumbabhoj.domain\\models\\restaurant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C062D1DB-46B9-4941-B80A-1CF3CCEE0EA9}|KutumbaBhoj.csproj|c:\\users\\asus\\source\\repos\\kutumbabhoj\\controllers\\dishescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C062D1DB-46B9-4941-B80A-1CF3CCEE0EA9}|KutumbaBhoj.csproj|solutionrelative:controllers\\dishescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C062D1DB-46B9-4941-B80A-1CF3CCEE0EA9}|KutumbaBhoj.csproj|c:\\users\\asus\\source\\repos\\kutumbabhoj\\controllers\\restaurantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C062D1DB-46B9-4941-B80A-1CF3CCEE0EA9}|KutumbaBhoj.csproj|solutionrelative:controllers\\restaurantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4F2B14B-0574-4DE0-8A1C-277E140147DF}|..\\KutumbaBhoj.Domain\\KutumbaBhoj.Domain.csproj|c:\\users\\asus\\source\\repos\\kutumbabhoj.domain\\models\\dish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{231B7D97-454E-407D-A229-A582AAC8199B}|..\\KutumbaBhoj.Application\\KutumbaBhoj.Application.csproj|c:\\users\\asus\\source\\repos\\kutumbabhoj.application\\services\\servicedishes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{231B7D97-454E-407D-A229-A582AAC8199B}|..\\KutumbaBhoj.Application\\KutumbaBhoj.Application.csproj|c:\\users\\asus\\source\\repos\\kutumbabhoj.application\\interfaces\\irestaurants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{231B7D97-454E-407D-A229-A582AAC8199B}|..\\KutumbaBhoj.Application\\KutumbaBhoj.Application.csproj|c:\\users\\asus\\source\\repos\\kutumbabhoj.application\\interfaces\\idishes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C062D1DB-46B9-4941-B80A-1CF3CCEE0EA9}|KutumbaBhoj.csproj|c:\\users\\asus\\source\\repos\\kutumbabhoj\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C062D1DB-46B9-4941-B80A-1CF3CCEE0EA9}|KutumbaBhoj.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C062D1DB-46B9-4941-B80A-1CF3CCEE0EA9}|KutumbaBhoj.csproj|c:\\users\\asus\\source\\repos\\kutumbabhoj\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C062D1DB-46B9-4941-B80A-1CF3CCEE0EA9}|KutumbaBhoj.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C062D1DB-46B9-4941-B80A-1CF3CCEE0EA9}|KutumbaBhoj.csproj|c:\\users\\asus\\source\\repos\\kutumbabhoj\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C062D1DB-46B9-4941-B80A-1CF3CCEE0EA9}|KutumbaBhoj.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C062D1DB-46B9-4941-B80A-1CF3CCEE0EA9}|KutumbaBhoj.csproj|c:\\users\\asus\\source\\repos\\kutumbabhoj\\kutumbabhoj.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C062D1DB-46B9-4941-B80A-1CF3CCEE0EA9}|KutumbaBhoj.csproj|solutionrelative:kutumbabhoj.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4F2B14B-0574-4DE0-8A1C-277E140147DF}|..\\KutumbaBhoj.Domain\\KutumbaBhoj.Domain.csproj|c:\\users\\asus\\source\\repos\\kutumbabhoj.domain\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{231B7D97-454E-407D-A229-A582AAC8199B}|..\\KutumbaBhoj.Application\\KutumbaBhoj.Application.csproj|c:\\users\\asus\\source\\repos\\kutumbabhoj.application\\interfaces\\iorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{569A261E-C13F-4196-B97A-DFF8E5305B51}|..\\KutumbaBhoj.Infrastructure\\KutumbaBhoj.Infrastructure.csproj|c:\\users\\asus\\source\\repos\\kutumbabhoj.infrastructure\\dbcontext\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4F2B14B-0574-4DE0-8A1C-277E140147DF}|..\\KutumbaBhoj.Domain\\KutumbaBhoj.Domain.csproj|c:\\users\\asus\\source\\repos\\kutumbabhoj.domain\\models\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C062D1DB-46B9-4941-B80A-1CF3CCEE0EA9}|KutumbaBhoj.csproj|c:\\users\\asus\\source\\repos\\kutumbabhoj\\upload\\files\\638487033692740101.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{C062D1DB-46B9-4941-B80A-1CF3CCEE0EA9}|KutumbaBhoj.csproj|solutionrelative:upload\\files\\638487033692740101.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C062D1DB-46B9-4941-B80A-1CF3CCEE0EA9}|KutumbaBhoj.csproj|c:\\users\\asus\\source\\repos\\kutumbabhoj\\upload\\files\\638486981430135270.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{C062D1DB-46B9-4941-B80A-1CF3CCEE0EA9}|KutumbaBhoj.csproj|solutionrelative:upload\\files\\638486981430135270.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4F2B14B-0574-4DE0-8A1C-277E140147DF}|..\\KutumbaBhoj.Domain\\KutumbaBhoj.Domain.csproj|c:\\users\\asus\\source\\repos\\kutumbabhoj.domain\\models\\fileupload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C062D1DB-46B9-4941-B80A-1CF3CCEE0EA9}|KutumbaBhoj.csproj|c:\\users\\asus\\source\\repos\\kutumbabhoj\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C062D1DB-46B9-4941-B80A-1CF3CCEE0EA9}|KutumbaBhoj.csproj|solutionrelative:controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{231B7D97-454E-407D-A229-A582AAC8199B}|..\\KutumbaBhoj.Application\\KutumbaBhoj.Application.csproj|c:\\users\\asus\\source\\repos\\kutumbabhoj.application\\interfaces\\idishrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4F2B14B-0574-4DE0-8A1C-277E140147DF}|..\\KutumbaBhoj.Domain\\KutumbaBhoj.Domain.csproj|c:\\users\\asus\\source\\repos\\kutumbabhoj.domain\\models\\feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{231B7D97-454E-407D-A229-A582AAC8199B}|..\\KutumbaBhoj.Application\\KutumbaBhoj.Application.csproj|c:\\users\\asus\\source\\repos\\kutumbabhoj.application\\dto\\fooddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4F2B14B-0574-4DE0-8A1C-277E140147DF}|..\\KutumbaBhoj.Domain\\KutumbaBhoj.Domain.csproj|c:\\users\\asus\\source\\repos\\kutumbabhoj.domain\\models\\userloginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4F2B14B-0574-4DE0-8A1C-277E140147DF}|..\\KutumbaBhoj.Domain\\KutumbaBhoj.Domain.csproj|c:\\users\\asus\\source\\repos\\kutumbabhoj.domain\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C062D1DB-46B9-4941-B80A-1CF3CCEE0EA9}|KutumbaBhoj.csproj|c:\\users\\asus\\source\\repos\\kutumbabhoj\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C062D1DB-46B9-4941-B80A-1CF3CCEE0EA9}|KutumbaBhoj.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4F2B14B-0574-4DE0-8A1C-277E140147DF}|..\\KutumbaBhoj.Domain\\KutumbaBhoj.Domain.csproj|c:\\users\\asus\\source\\repos\\kutumbabhoj.domain\\models\\resetpasswordrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{569A261E-C13F-4196-B97A-DFF8E5305B51}|..\\KutumbaBhoj.Infrastructure\\KutumbaBhoj.Infrastructure.csproj|c:\\users\\asus\\source\\repos\\kutumbabhoj.infrastructure\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{231B7D97-454E-407D-A229-A582AAC8199B}|..\\KutumbaBhoj.Application\\KutumbaBhoj.Application.csproj|c:\\users\\asus\\source\\repos\\kutumbabhoj.application\\services\\serviceusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{231B7D97-454E-407D-A229-A582AAC8199B}|..\\KutumbaBhoj.Application\\KutumbaBhoj.Application.csproj|c:\\users\\asus\\source\\repos\\kutumbabhoj.application\\dto\\usersdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{569A261E-C13F-4196-B97A-DFF8E5305B51}|..\\KutumbaBhoj.Infrastructure\\KutumbaBhoj.Infrastructure.csproj|c:\\users\\asus\\source\\repos\\kutumbabhoj.infrastructure\\migrations\\20240321105706_kutumbabhoj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{569A261E-C13F-4196-B97A-DFF8E5305B51}|..\\KutumbaBhoj.Infrastructure\\KutumbaBhoj.Infrastructure.csproj|c:\\users\\asus\\source\\repos\\kutumbabhoj.infrastructure\\migrations\\20240404075904_kutumbabhoj 2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{569A261E-C13F-4196-B97A-DFF8E5305B51}|..\\KutumbaBhoj.Infrastructure\\KutumbaBhoj.Infrastructure.csproj|c:\\users\\asus\\source\\repos\\kutumbabhoj.infrastructure\\migrations\\20240322052749_update-database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{231B7D97-454E-407D-A229-A582AAC8199B}|..\\KutumbaBhoj.Application\\KutumbaBhoj.Application.csproj|c:\\users\\asus\\source\\repos\\kutumbabhoj.application\\dto\\dishesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4F2B14B-0574-4DE0-8A1C-277E140147DF}|..\\KutumbaBhoj.Domain\\KutumbaBhoj.Domain.csproj|c:\\users\\asus\\source\\repos\\kutumbabhoj.domain\\kutumbabhoj.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{569A261E-C13F-4196-B97A-DFF8E5305B51}|..\\KutumbaBhoj.Infrastructure\\KutumbaBhoj.Infrastructure.csproj|c:\\users\\asus\\source\\repos\\kutumbabhoj.infrastructure\\migrations\\20240408035929_new-migration-name.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{569A261E-C13F-4196-B97A-DFF8E5305B51}|..\\KutumbaBhoj.Infrastructure\\KutumbaBhoj.Infrastructure.csproj|c:\\users\\asus\\source\\repos\\kutumbabhoj.infrastructure\\migrations\\20240414092401_updated-database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 165,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RestaurantRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\KutumbaBhoj.Infrastructure\\Repository\\RestaurantRepository.cs",
+              "RelativeDocumentMoniker": "..\\KutumbaBhoj.Infrastructure\\Repository\\RestaurantRepository.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\KutumbaBhoj.Infrastructure\\Repository\\RestaurantRepository.cs",
+              "RelativeToolTip": "..\\KutumbaBhoj.Infrastructure\\Repository\\RestaurantRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T04:06:26.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IRestaurants.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\KutumbaBhoj.Application\\Interfaces\\IRestaurants.cs",
+              "RelativeDocumentMoniker": "..\\KutumbaBhoj.Application\\Interfaces\\IRestaurants.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\KutumbaBhoj.Application\\Interfaces\\IRestaurants.cs",
+              "RelativeToolTip": "..\\KutumbaBhoj.Application\\Interfaces\\IRestaurants.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T02:47:40.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\KutumbaBhoj\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\KutumbaBhoj\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-17T07:41:48.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IOrder.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\KutumbaBhoj.Application\\Interfaces\\IOrder.cs",
+              "RelativeDocumentMoniker": "..\\KutumbaBhoj.Application\\Interfaces\\IOrder.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\KutumbaBhoj.Application\\Interfaces\\IOrder.cs",
+              "RelativeToolTip": "..\\KutumbaBhoj.Application\\Interfaces\\IOrder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T01:57:53.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "20240414092401_Updated-database.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\KutumbaBhoj.Infrastructure\\Migrations\\20240414092401_Updated-database.cs",
+              "RelativeDocumentMoniker": "..\\KutumbaBhoj.Infrastructure\\Migrations\\20240414092401_Updated-database.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\KutumbaBhoj.Infrastructure\\Migrations\\20240414092401_Updated-database.cs",
+              "RelativeToolTip": "..\\KutumbaBhoj.Infrastructure\\Migrations\\20240414092401_Updated-database.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T09:24:01.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "638487033692740101.png - PNG [683x960, 24 bit, PNG]",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\KutumbaBhoj\\Upload\\Files\\638487033692740101.png",
+              "RelativeDocumentMoniker": "Upload\\Files\\638487033692740101.png",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\KutumbaBhoj\\Upload\\Files\\638487033692740101.png - PNG [683x960, 24 bit, PNG]",
+              "RelativeToolTip": "Upload\\Files\\638487033692740101.png - PNG [683x960, 24 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-04-14T09:13:05.878Z",
+              "EditorCaption": " - PNG [683x960, 24 bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "638486981430135270.png - PNG [683x960, 24 bit, PNG]",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\KutumbaBhoj\\Upload\\Files\\638486981430135270.png",
+              "RelativeDocumentMoniker": "Upload\\Files\\638486981430135270.png",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\KutumbaBhoj\\Upload\\Files\\638486981430135270.png - PNG [683x960, 24 bit, PNG]",
+              "RelativeToolTip": "Upload\\Files\\638486981430135270.png - PNG [683x960, 24 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-04-14T07:46:09.879Z",
+              "EditorCaption": " - PNG [683x960, 24 bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FileUpload.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\KutumbaBhoj.Domain\\Models\\FileUpload.cs",
+              "RelativeDocumentMoniker": "..\\KutumbaBhoj.Domain\\Models\\FileUpload.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\KutumbaBhoj.Domain\\Models\\FileUpload.cs",
+              "RelativeToolTip": "..\\KutumbaBhoj.Domain\\Models\\FileUpload.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T06:59:08.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IDishRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\KutumbaBhoj.Application\\Interfaces\\IDishRepository.cs",
+              "RelativeDocumentMoniker": "..\\KutumbaBhoj.Application\\Interfaces\\IDishRepository.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\KutumbaBhoj.Application\\Interfaces\\IDishRepository.cs",
+              "RelativeToolTip": "..\\KutumbaBhoj.Application\\Interfaces\\IDishRepository.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAuwA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T18:39:13.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserRegisterRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\KutumbaBhoj.Domain\\Models\\UserRegisterRequest.cs",
+              "RelativeDocumentMoniker": "..\\KutumbaBhoj.Domain\\Models\\UserRegisterRequest.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\KutumbaBhoj.Domain\\Models\\UserRegisterRequest.cs",
+              "RelativeToolTip": "..\\KutumbaBhoj.Domain\\Models\\UserRegisterRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T08:01:18.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ServiceDishes.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\KutumbaBhoj.Application\\Services\\ServiceDishes.cs",
+              "RelativeDocumentMoniker": "..\\KutumbaBhoj.Application\\Services\\ServiceDishes.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\KutumbaBhoj.Application\\Services\\ServiceDishes.cs",
+              "RelativeToolTip": "..\\KutumbaBhoj.Application\\Services\\ServiceDishes.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAowB8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T18:35:12.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IDishes.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\KutumbaBhoj.Application\\Interfaces\\IDishes.cs",
+              "RelativeDocumentMoniker": "..\\KutumbaBhoj.Application\\Interfaces\\IDishes.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\KutumbaBhoj.Application\\Interfaces\\IDishes.cs",
+              "RelativeToolTip": "..\\KutumbaBhoj.Application\\Interfaces\\IDishes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T18:34:51.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Restaurant.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\KutumbaBhoj.Domain\\Models\\Restaurant.cs",
+              "RelativeDocumentMoniker": "..\\KutumbaBhoj.Domain\\Models\\Restaurant.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\KutumbaBhoj.Domain\\Models\\Restaurant.cs",
+              "RelativeToolTip": "..\\KutumbaBhoj.Domain\\Models\\Restaurant.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T18:27:39.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\KutumbaBhoj.Domain\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "..\\KutumbaBhoj.Domain\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\KutumbaBhoj.Domain\\Models\\Order.cs",
+              "RelativeToolTip": "..\\KutumbaBhoj.Domain\\Models\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T18:27:35.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Food.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\KutumbaBhoj.Domain\\Models\\Food.cs",
+              "RelativeDocumentMoniker": "..\\KutumbaBhoj.Domain\\Models\\Food.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\KutumbaBhoj.Domain\\Models\\Food.cs",
+              "RelativeToolTip": "..\\KutumbaBhoj.Domain\\Models\\Food.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T18:08:58.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "FoodDto.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\KutumbaBhoj.Application\\DTO\\FoodDto.cs",
+              "RelativeDocumentMoniker": "..\\KutumbaBhoj.Application\\DTO\\FoodDto.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\KutumbaBhoj.Application\\DTO\\FoodDto.cs",
+              "RelativeToolTip": "..\\KutumbaBhoj.Application\\DTO\\FoodDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T18:08:54.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\KutumbaBhoj\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\KutumbaBhoj\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAACkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-10T02:06:38.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\KutumbaBhoj\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\KutumbaBhoj\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-10T02:06:26.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Feedback.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\KutumbaBhoj.Domain\\Models\\Feedback.cs",
+              "RelativeDocumentMoniker": "..\\KutumbaBhoj.Domain\\Models\\Feedback.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\KutumbaBhoj.Domain\\Models\\Feedback.cs",
+              "RelativeToolTip": "..\\KutumbaBhoj.Domain\\Models\\Feedback.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T10:34:30.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "20240408035929_New-Migration-Name.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\KutumbaBhoj.Infrastructure\\Migrations\\20240408035929_New-Migration-Name.cs",
+              "RelativeDocumentMoniker": "..\\KutumbaBhoj.Infrastructure\\Migrations\\20240408035929_New-Migration-Name.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\KutumbaBhoj.Infrastructure\\Migrations\\20240408035929_New-Migration-Name.cs",
+              "RelativeToolTip": "..\\KutumbaBhoj.Infrastructure\\Migrations\\20240408035929_New-Migration-Name.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T03:59:30.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "20240321105706_KutumbaBhoj.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\KutumbaBhoj.Infrastructure\\Migrations\\20240321105706_KutumbaBhoj.cs",
+              "RelativeDocumentMoniker": "..\\KutumbaBhoj.Infrastructure\\Migrations\\20240321105706_KutumbaBhoj.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\KutumbaBhoj.Infrastructure\\Migrations\\20240321105706_KutumbaBhoj.cs",
+              "RelativeToolTip": "..\\KutumbaBhoj.Infrastructure\\Migrations\\20240321105706_KutumbaBhoj.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T03:44:32.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "20240322052749_update-database.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\KutumbaBhoj.Infrastructure\\Migrations\\20240322052749_update-database.cs",
+              "RelativeDocumentMoniker": "..\\KutumbaBhoj.Infrastructure\\Migrations\\20240322052749_update-database.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\KutumbaBhoj.Infrastructure\\Migrations\\20240322052749_update-database.cs",
+              "RelativeToolTip": "..\\KutumbaBhoj.Infrastructure\\Migrations\\20240322052749_update-database.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T03:43:48.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "DishesDto.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\KutumbaBhoj.Application\\DTO\\DishesDto.cs",
+              "RelativeDocumentMoniker": "..\\KutumbaBhoj.Application\\DTO\\DishesDto.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\KutumbaBhoj.Application\\DTO\\DishesDto.cs",
+              "RelativeToolTip": "..\\KutumbaBhoj.Application\\DTO\\DishesDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T12:24:21.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Dish.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\KutumbaBhoj.Domain\\Models\\Dish.cs",
+              "RelativeDocumentMoniker": "..\\KutumbaBhoj.Domain\\Models\\Dish.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\KutumbaBhoj.Domain\\Models\\Dish.cs",
+              "RelativeToolTip": "..\\KutumbaBhoj.Domain\\Models\\Dish.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAAA4AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T12:23:58.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DishesController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\KutumbaBhoj\\Controllers\\DishesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DishesController.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\KutumbaBhoj\\Controllers\\DishesController.cs",
+              "RelativeToolTip": "Controllers\\DishesController.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAiwA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T14:03:45.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\KutumbaBhoj\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\KutumbaBhoj\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAQwEQAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T12:51:56.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ServiceUsers.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\KutumbaBhoj.Application\\Services\\ServiceUsers.cs",
+              "RelativeDocumentMoniker": "..\\KutumbaBhoj.Application\\Services\\ServiceUsers.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\KutumbaBhoj.Application\\Services\\ServiceUsers.cs",
+              "RelativeToolTip": "..\\KutumbaBhoj.Application\\Services\\ServiceUsers.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T09:59:40.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ResetPasswordRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\KutumbaBhoj.Domain\\Models\\ResetPasswordRequest.cs",
+              "RelativeDocumentMoniker": "..\\KutumbaBhoj.Domain\\Models\\ResetPasswordRequest.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\KutumbaBhoj.Domain\\Models\\ResetPasswordRequest.cs",
+              "RelativeToolTip": "..\\KutumbaBhoj.Domain\\Models\\ResetPasswordRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T09:34:57.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "UserLoginRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\KutumbaBhoj.Domain\\Models\\UserLoginRequest.cs",
+              "RelativeDocumentMoniker": "..\\KutumbaBhoj.Domain\\Models\\UserLoginRequest.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\KutumbaBhoj.Domain\\Models\\UserLoginRequest.cs",
+              "RelativeToolTip": "..\\KutumbaBhoj.Domain\\Models\\UserLoginRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T08:37:40.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RestaurantController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\KutumbaBhoj\\Controllers\\RestaurantController.cs",
+              "RelativeDocumentMoniker": "Controllers\\RestaurantController.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\KutumbaBhoj\\Controllers\\RestaurantController.cs",
+              "RelativeToolTip": "Controllers\\RestaurantController.cs",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAwwG0AAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T08:09:22.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "20240404075904_KutumbaBhoj 2.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\KutumbaBhoj.Infrastructure\\Migrations\\20240404075904_KutumbaBhoj 2.cs",
+              "RelativeDocumentMoniker": "..\\KutumbaBhoj.Infrastructure\\Migrations\\20240404075904_KutumbaBhoj 2.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\KutumbaBhoj.Infrastructure\\Migrations\\20240404075904_KutumbaBhoj 2.cs",
+              "RelativeToolTip": "..\\KutumbaBhoj.Infrastructure\\Migrations\\20240404075904_KutumbaBhoj 2.cs",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T07:59:04.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DishRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\KutumbaBhoj.Infrastructure\\Repository\\DishRepository.cs",
+              "RelativeDocumentMoniker": "..\\KutumbaBhoj.Infrastructure\\Repository\\DishRepository.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\KutumbaBhoj.Infrastructure\\Repository\\DishRepository.cs",
+              "RelativeToolTip": "..\\KutumbaBhoj.Infrastructure\\Repository\\DishRepository.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwCIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T07:53:55.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\KutumbaBhoj.Infrastructure\\Repository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "..\\KutumbaBhoj.Infrastructure\\Repository\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\KutumbaBhoj.Infrastructure\\Repository\\UserRepository.cs",
+              "RelativeToolTip": "..\\KutumbaBhoj.Infrastructure\\Repository\\UserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD4AAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T07:48:15.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\KutumbaBhoj.Infrastructure\\DbContext\\DataContext.cs",
+              "RelativeDocumentMoniker": "..\\KutumbaBhoj.Infrastructure\\DbContext\\DataContext.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\KutumbaBhoj.Infrastructure\\DbContext\\DataContext.cs",
+              "RelativeToolTip": "..\\KutumbaBhoj.Infrastructure\\DbContext\\DataContext.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAtwB0AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T07:41:08.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "KutumbaBhoj.csproj",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\KutumbaBhoj\\KutumbaBhoj.csproj",
+              "RelativeDocumentMoniker": "KutumbaBhoj.csproj",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\KutumbaBhoj\\KutumbaBhoj.csproj",
+              "RelativeToolTip": "KutumbaBhoj.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-04T07:38:10.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "KutumbaBhoj.Domain.csproj",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\KutumbaBhoj.Domain\\KutumbaBhoj.Domain.csproj",
+              "RelativeDocumentMoniker": "..\\KutumbaBhoj.Domain\\KutumbaBhoj.Domain.csproj",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\KutumbaBhoj.Domain\\KutumbaBhoj.Domain.csproj",
+              "RelativeToolTip": "..\\KutumbaBhoj.Domain\\KutumbaBhoj.Domain.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-04T07:38:05.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "UsersDto.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\KutumbaBhoj.Application\\DTO\\UsersDto.cs",
+              "RelativeDocumentMoniker": "..\\KutumbaBhoj.Application\\DTO\\UsersDto.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\KutumbaBhoj.Application\\DTO\\UsersDto.cs",
+              "RelativeToolTip": "..\\KutumbaBhoj.Application\\DTO\\UsersDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T07:26:57.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\KutumbaBhoj.Domain\\Models\\User.cs",
+              "RelativeDocumentMoniker": "..\\KutumbaBhoj.Domain\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\KutumbaBhoj.Domain\\Models\\User.cs",
+              "RelativeToolTip": "..\\KutumbaBhoj.Domain\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T07:26:21.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\KutumbaBhoj\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\KutumbaBhoj\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Controllers\\UsersController.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAmwAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T07:10:00.495Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
